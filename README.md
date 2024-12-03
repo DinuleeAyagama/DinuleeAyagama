@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dularaayagama&label=Profile%20views&color=0e75b6&style=flat" alt="dularaayagama" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dularaayagama" alt="dularaayagama" /></a> </p>
----
+
 - 🌱 I’m currently learning **Software Engineering Deploma**
 
 - 💬 Ask me about **Html , Css, Js , React**
